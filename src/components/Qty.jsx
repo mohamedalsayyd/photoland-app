@@ -8,7 +8,7 @@ const Qty = ({ item }) => {
     <div className="flex gap-x-6 items-center text-primary">
       {item.amount < 10 ? (
         <select
-          onChange={(e) => handleSelect(e, item._id)}
+          onChange={(e) => handleSelect(e, item.id)}
           value={item.amount}
           className="p-2 rounded-lg w-[100px] h-12 outline-none text-primary"
         >
