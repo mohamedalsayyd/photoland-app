@@ -21,6 +21,8 @@ const clear = () =>
   });
 const Cart = () => {
   const { setIsOpen, cart, total, clearCart } = useContext(CartContext);
+  console.log(cart);
+
   return (
     <div className="w-full h-full px-4 text-white">
       <div className="overflow-y-auto overflow-x-hidden h-[75vh]">

@@ -24,14 +24,13 @@ const CartProvider = ({ children }) => {
   }, [cart]);
 
   const addToCart = (item) => {
-    const itemID = item._id
+    const itemID = item.id;
     const existingCartItem = cart.find((cartItem) => {
-      console.log(cartItem._id, itemID);
-      return cartItem._id === itemID;
+      return cartItem.id === itemID;
     });
     if (existingCartItem) {
       const updatedCart = cart.map((cartItem) => {
-        if (cartItem._id === itemID) {
+        if (cartItem.id === itemID) {
           cartItem.amount++;
           return cartItem;
         }
@@ -47,11 +46,11 @@ const CartProvider = ({ children }) => {
   const handleSelect = (e, id) => {
     const value = parseInt(e.target.value);
     const cartItem = cart.find((item) => {
-      return item._id === id;
+      return item.id === id;
     });
     if (cartItem) {
       const newCart = [...cart].map((item) => {
-        if (item._id === id) {
+        if (item.id === id) {
           setAmount(value);
           return { ...item, amount: value };
         } else {
@@ -69,7 +68,7 @@ const CartProvider = ({ children }) => {
     });
     if (cartItem) {
       const newCart = cart.map((item) => {
-        if (item._id === id) {
+        if (item.id === id) {
           if (isNaN(value)) {
             setAmount(1);
             return { ...item, amount: 1 };
@@ -88,7 +87,7 @@ const CartProvider = ({ children }) => {
 
   const removeFromCart = (id) => {
     const newCart = cart.filter((item) => {
-      return item._id !== id;
+      return item.id !== id;
     });
     setCart(newCart);
   };

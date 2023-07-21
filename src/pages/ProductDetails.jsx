@@ -27,9 +27,7 @@ const ProductDetails = () => {
             />
           </div>
           <div className="flex-1 bg-primary p-12 xl:p-20 rounded-lg flex flex-col justify-center">
-            <div className="uppercase text-accent text-lg font-medium mb-2">
-              {product.title} cameras
-            </div>
+            <div className="uppercase text-accent text-lg font-medium mb-2"></div>
             <h2 className="h2 mb-4">{product.title}</h2>
             <p className="mb-12">{product.description}</p>
             <div className="flex items-center gap-x-8">
@@ -37,7 +35,7 @@ const ProductDetails = () => {
                 ${product.price}
               </div>
               <button
-                onClick={() => addToCart(data.find((item) => (item._id = id)))}
+                onClick={() => addToCart(product)}
                 className="btn btn-accent"
               >
                 Add to cart
