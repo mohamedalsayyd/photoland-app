@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "Nikon D850 Camera DSLR 45.7MP CMOS Body",
+    "description": "The Nikon D850 is a professional-grade full-frame DSLR camera with a 45.7 megapixel CMOS sensor. It offers excellent image quality, fast autofocus, and 4K video recording. Get it now at a discounted price!",
+    "price": 1050.99,
+    "img": "https://i.postimg.cc/KjL0Cmzz/1.png",
+    "isNew": false
+  },
+  {
+    "id": 2,
+    "title": "Canon EOS 6D Mark II Camera DSLR 26.2MP CMOS Body",
+    "description": "The Canon EOS 6D Mark II is a full-frame DSLR camera with a 26.2 megapixel CMOS sensor. It offers fast autofocus, excellent low-light performance, and Full HD video recording. Get it now at a discounted price!",
+    "price": 789.5,
+    "img": "https://i.postimg.cc/W3nnWgk9/2.png",
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "title": "Nikon D7500 Camera DSLR 20.9MP CMOS 4K Kit 18-140 mm",
+    "description": "The Nikon D7500 is a powerful DSLR camera with a 20.9 megapixel CMOS sensor and 4K video recording capabilities. This kit comes with an 18-140mm lens for added versatility. Get it now at a discounted price!",
+    "price": 1199.99,
+    "img": "https://i.postimg.cc/NFCxYtbm/3.png",
+    "isNew": true
+  },
+  {
+    "id": 4,
+    "title": "Canon EOS 250D Kit with Camera Lens EF-S 18-55mm DC Black",
+    "description": "The Canon EOS 250D is a lightweight and easy-to-use DSLR camera with a 24.1 megapixel APS-C sensor. This kit comes with an 18-55mm lens for added versatility. Get it now at a discounted price!",
+    "price": 649.75,
+    "img": "https://i.postimg.cc/zvGk9vwq/4.png",
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "title": "Canon EOS 2000D Camera DSLR 24.1MP CMOS Kit with Camera Lens EF-S 18-55mm f/3.5-5.6 III Black",
+    "description": "The Canon EOS 2000D is a beginner-friendly DSLR camera with a 24.1 megapixel APS-C sensor. This kit comes with an 18-55mm lens for added versatility. Get it now at a discounted price!",
+    "price": 399.99,
+    "img": "https://i.postimg.cc/qq11RyBt/5.png",
+    "isNew": false
+  },
+  {
+    "id": 6,
+    "title": "Sigma FP Digital Camera Full Frame 24.6MP Body",
+    "description": "The Sigma FP is a compact and lightweight full-frame mirrorless camera with a 24.6 megapixel sensor. It offers 4K video recording and a variety of advanced features. Get it now at a discounted price!",
+    "price": 1780.25,
+    "img": "https://i.postimg.cc/V6n6mWRR/1.png",
+    "isNew": false
+  },
+  {
+    "id": 7,
+    "title": "Sony A7 III Body Photo Camera Mirrorless 24MP Full Frame 4K",
+    "description": "The Sony A7 III is a full-frame mirrorless camera with a 24 megapixel sensor and 4K video capabilities. It offers fast autofocus and excellent low-light performance. Get it now at a discounted price!",
+    "price": 2199.99,
+    "img": "https://i.postimg.cc/CLd38xyy/1.png",
+    "isNew": true
+  },
+  {
+    "id": 8,
+    "title": "Canon EOS M50 II Photo Camera Mirrorless 24MP Kit with Camera Lens EF-M 15-45mm F/3.5-6.3 IS STM Black",
+    "description": "The Canon EOS M50 II is a powerful and versatile mirrorless camera kit that includes a high-quality camera lens EF-M 15-45mm F/3.5-6.3 IS STM. With its 24MP sensor and advanced autofocus system, this camera is perfect for capturing stunning photos and videos. Get creative with its easy-to-use controls and built-in Wi-Fi and Bluetooth connectivity. Buy now and unleash your creativity!",
+    "price": 799.99,
+    "img": "https://i.postimg.cc/DwXRCpyB/2.png",
+    "isNew": true
+  },
+  {
+    "id": 9,
+    "title": "Canon EOS R6 Mark II Photo Camera Mirrorless Full Frame 24.2MP Body Black",
+    "description": "The Canon EOS R6 Mark II is a top-of-the-line mirrorless camera that features a full-frame 24.2MP sensor and advanced image processing capabilities. Its fast autofocus system and 5-axis in-body image stabilization make it perfect for capturing sharp and steady photos and videos. With its intuitive controls and built-in Wi-Fi and Bluetooth connectivity, this camera is a must-have for any serious photographer. Buy now and take your photography to the next level!",
+    "price": 2499.99,
+    "img": "https://i.postimg.cc/bNMK9f8Z/3.png",
+    "isNew": false
+  },
+  {
+    "id": 10,
+    "title": "Panasonic LUMIX S5 II Photo Camera Mirrorless Full Frame 24.2MP",
+    "description": "The Panasonic LUMIX S5 II is a high-performance mirrorless camera that features a full-frame 24.2MP sensor and advanced autofocus system. Its 4K video capabilities and high-speed burst shooting make it perfect for capturing stunning photos and videos. With its compact and lightweight design, this camera is easy to take with you wherever you go. Get yours now and start capturing your world in high definition!",
+    "price": 1699.99,
+    "img": "https://i.postimg.cc/Vs7y5bVB/4.png",
+    "isNew": false
+  },
+  {
+    "id": 11,
+    "title": "Fujifilm Instax Mini 90 Neo Classic Photo Camera Instant Black",
+    "description": "The Fujifilm Instax Mini 90 Neo Classic is a stylish and fun instant camera that lets you capture and print your favorite moments on the spot. With its retro design and advanced features, including multiple exposure and bulb modes, this camera is perfect for creative and spontaneous photography. Buy now and start making memories that last a lifetime!",
+    "price": 99.99,
+    "img": "https://i.postimg.cc/rp62MXYB/5.png",
+    "isNew": true
+  },
+  {
+    "id": 12,
+    "title": "Fujifilm Instax Wide 300 Photo Camera Instant",
+    "description": "The Fujifilm Instax Wide 300 is a fun and easy-to-use instant camera that lets you capture and print your favorite moments on the spot. With its wide-format film and automatic flash, this camera is perfect for group shots and low-light situations. Get yours now and start making memories that you can hold in your hand!",
+    "price": 119.99,
+    "img": "https://i.postimg.cc/RNxmPkrx/1.png",
+    "isNew": false
+  },
+  {
+    "id": 13,
+    "title": "Agfaphoto Photo Camera Analog 35mm Reusable Black",
+    "description": "The Agfaphoto Analog 35mm is a classic and reliable film camera that lets you capture your favorite moments with a timeless aesthetic. With its durable and reusable design, this camera is perfect for anyone who loves the art of film photography. Buy now and start creating your own masterpieces!",
+    "price": 79.99,
+    "img": "https://i.postimg.cc/yWZByVbT/2.png",
+    "isNew": false
+  },
+  {
+    "id": 14,
+    "title": "Fujifilm Instax Mini 40 Photo Camera Instant Black",
+    "description": "The Fujifilm Instax Mini 40 is a stylish and compact instant camera that lets you capture and print your favorite moments on the spot. With its automatic exposure and built-in flash, this camera is perfect for capturing clear and vibrant photos in any lighting conditions. Buy now and start making memoriesthat you can hold in your hand!",
+    "price": 89.99,
+    "img": "https://i.postimg.cc/R3Z47Kk3/3.png",
+    "isNew": true
+  },
+  {
+    "id": 15,
+    "title": "Sony Cyber-shot DSC-RX10 IV Photo Camera Compact 20.1MP Wi-Fi Bluetooth Black",
+    "description": "The Sony Cyber-shot DSC-RX10 IV is a top-of-the-line compact camera that features a 20.1MP sensor, advanced autofocus system, and built-in Wi-Fi and Bluetooth connectivity. With its Zeiss lens and 2.9x optical zoom, this camera is perfect for capturing stunning photos and videos on the go. Get yours now and unleash your creativity!",
+    "price": 849.99,
+    "img": "https://i.postimg.cc/YvpH7QqX/4.png",
+    "isNew": true
+  },
+  {
+    "id": 16,
+    "title": "Sony Cyber-Shot DSC-RX100 VA - Photo Camera, 20,1 MP, Zoom Optic, 2.9x, ZEISS Vario-Sonnar ",
+    "description": "The Sony Cyber-Shot DSC-RX100 VA is a high-performance compact camera that features a 20.1MP sensor, advanced autofocus system, and Zeiss Vario-Sonnar lens with 2.9x optical zoom. With its compact size and easy-to-use controls, this camera is perfect for capturing amazing photos and videos on the go. Buy now and take your photography to the next level!",
+    "price": 699.99,
+    "img": "https://i.postimg.cc/dZLh4ggy/5.png",
+    "isNew": false
+  },
+  {
+    "id": 17,
+    "title": "Panasonic Lumix FZ1000 II Photo Camera Bridge 20.1 MP Zoom 16x 4K Black",
+    "description": "The Panasonic Lumix FZ1000 II is a powerful bridge camera that features a 20.1MP sensor, advanced autofocus system, and 16x optical zoom lens. With its 4K video capabilities and built-in Wi-Fi connectivity, this camera is perfect for capturing stunning photos and videos. Get yours now and start exploring your creativity!",
+    "price": 899.99,
+    "img": "https://i.postimg.cc/XBrYWdjG/1.png",
+    "isNew": true
+  },
+  {
+    "id": 18,
+    "title": "Nikon Coolpix P1000 Photo Camera Bridge 16MP Black",
+    "price": 799.99,
+    "description": "The Nikon Coolpix P1000 is a high-performance bridge camera that features a 16MP sensor and advanced zoom lens with 125x optical zoom. With its easy-to-use controls and built-in Wi-Fi connectivity, this camera is perfect for capturing amazing photos and videos from a distance. Buy now and unleash your creativity!",
+    "img": "https://i.postimg.cc/xqZdRx5K/2.png",
+    "isNew": false
+  },
+  {
+    "id": 19,
+    "title": "Olympus TG-6 Photo Camera Compact Subacvatic 12MP 4K Black",
+    "price": 399.99,
+    "description": "The Olympus TG-6 is a rugged and versatile compact camera that features a 12MP sensor and advanced image processing capabilities. With its waterproof and shockproof design, this camera is perfect for capturing stunning photos and videos in extreme conditions. Buy now and start exploring your adventurous side!",
+    "img": "https://i.postimg.cc/D408zRgz/3.png",
+    "isNew": true
+  }
+]
